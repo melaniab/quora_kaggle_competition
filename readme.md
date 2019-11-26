@@ -10,7 +10,7 @@ Our project contains of 7 files. We have got our best submission (0.76) running 
 
 [CNN-RNN-with-Keras.ipynb](CNN-RNN-with-Keras.ipynb) - implementation of word embeddings with Glove and convolution and recurrent neural networks with Keras 
 
-[Random Forest Classifier.ipynb](Random Forest Classifier.ipynb)
+[Random Forest Classifier.ipynb](https://github.com/melaniab/quora_kaggle_competition/blob/master/Random%20Forest%20Classifier.ipynb)
 
 [DNN Tensorflow.ipynb](DNN Tensorflow.ipynb)
 
