@@ -8,12 +8,12 @@ Our project contains of 7 files. We have got our best submission (0.76) running 
 
 [Features.ipynb](Features.ipynb) - feature extraction for all 4 feature sets that we are using
 
-CNN-RNN-with-Keras.ipynb - implementation of word embeddings with Glove and convolution and recurrent neural networks with Keras 
+[CNN-RNN-with-Keras.ipynb](CNN-RNN-with-Keras.ipynb) - implementation of word embeddings with Glove and convolution and recurrent neural networks with Keras 
 
-Random Forest Classifier.ipynb 
+[Random Forest Classifier.ipynb](Random Forest Classifier.ipynb)
 
-DNN Tensorflow.ipynb 
+[DNN Tensorflow.ipynb](DNN Tensorflow.ipynb)
 
-XGBoost Classifier.ipynb
+[XGBoost Classifier.ipynb](XGBoost Classifier.ipynb) 
 
-XGBoost Parameter Tuning.ipynb
+[XGBoost Parameter Tuning.ipynb](XGBoost Parameter Tuning.ipynb)
