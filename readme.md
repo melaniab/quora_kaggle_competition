@@ -12,8 +12,8 @@ Our project contains of 7 files. We have got our best submission (0.76) running 
 
 [Random Forest Classifier.ipynb](https://github.com/melaniab/quora_kaggle_competition/blob/master/Random%20Forest%20Classifier.ipynb)
 
-[DNN Tensorflow.ipynb](DNN Tensorflow.ipynb)
+[DNN Tensorflow.ipynb](https://github.com/melaniab/quora_kaggle_competition/blob/master/DNN%20Tensorflow.ipynb)
 
-[XGBoost Classifier.ipynb](XGBoost Classifier.ipynb) 
+[XGBoost Classifier.ipynb](https://github.com/melaniab/quora_kaggle_competition/blob/master/XGBoost%20Classifier.ipynb) 
 
-[XGBoost Parameter Tuning.ipynb](XGBoost Parameter Tuning.ipynb)
+[XGBoost Parameter Tuning.ipynb](https://github.com/melaniab/quora_kaggle_competition/blob/master/XGBoost%20Parameter%20Tuning.ipynb)
